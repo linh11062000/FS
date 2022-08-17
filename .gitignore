@@ -1,0 +1,4 @@
+
+*.class
+.classpath
+.settings/org.eclipse.core.resources.prefs
